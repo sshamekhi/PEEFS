@@ -1,8 +1,8 @@
 # PEEFS
 PEEFS: Persian Emotion Elicitation Film Set 
-Fatemeh Shalchizadeha, Sina Shamekhia, Reza Naghdi Sadehb, Abbas Darvisha
-a Faculty of Biomedical Engineering, Sahand University of Technology, Tabriz, Iran
-b Research Center of Psychiatry and Behavioral Sciences, Tabriz University of Medical Sciences, Tabriz, Iran
+Fatemeh Shalchizadeha, Sina Shamekhi, Reza Naghdi Sadeh, Abbas Darvish
+Faculty of Biomedical Engineering, Sahand University of Technology, Tabriz, Iran
+Research Center of Psychiatry and Behavioral Sciences, Tabriz University of Medical Sciences, Tabriz, Iran
 Abstract
 This document describes Persian Emotion Elicitation Film Set. According to the authors’ knowledge, Persian Emotion Elicitation Film Set (PEEFS) is the first emotion elicitation Persian film set that has been collected and validated by an 88-person population using an online server-based website created in this work. We have watched 84 most-watched Iranian films to trim emotional segments, and the final set consists of 21 film clips, duration from 20 to 100 s, with discrete labeling based on six basic emotions and ratings in two dimensions of arousal and valence. These 21 film clips have the highest intensity at each target emotion. In addition, emotion scores of the film clips are also included. This database can be used to stimulate emotions and to design automatic emotion recognition systems at different levels. 
 Description
